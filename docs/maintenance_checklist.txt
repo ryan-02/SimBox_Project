@@ -1,0 +1,5 @@
+☑ SimApp launches
+☑ Network is connected
+☑ Device hostname: SimBox-01
+☑ Remote Desktop enabled
+☑ install_log.txt updated

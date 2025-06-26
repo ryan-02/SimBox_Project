@@ -1,0 +1,11 @@
+Issue: SimApp won’t start
+- Ensure Python is installed
+- Check file path: SimApp.py
+- Run manually: python SimApp.py
+
+Issue: No network
+- Check Ethernet or Wi-Fi
+- Run: ipconfig and ping 8.8.8.8
+
+Issue: RDP not working
+- Enable Remote Desktop in system settings
