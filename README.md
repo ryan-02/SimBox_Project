@@ -27,43 +27,36 @@ This project was created to demonstrate hands-on ability in:
 
 ---
 
+## 🔧 Features
+
+- Python GUI using tkinter (no external libraries required)
+- Local `simapp_log.txt` automatically updated with user actions
+- Real-time feedback through the GUI
+
+---
+
 ## 📋 Skills Demonstrated
 
-- Windows 10 administration
-- PowerShell scripting
-- Basic Python development
-- Network setup and testing
-- Troubleshooting and documentation
-- Customer-focused technical communication
+- Windows desktop scripting (Python, tkinter)
+- Logging and file I/O
+- GUI layout and event handling
+- End-user support simulation
+- Menu creation and multi-window logic
 
 ---
 
-## 📁 Project Structure
+## 🚀 How to Run
 
-SimBox_Project/
-├── app/ # Python GUI app for simulation
-│ └── SimApp.py
-├── setup/ # Scripts to configure and install
-│ ├── configure_device.ps1
-│ └── install_mock_app.bat
-├── network/ # Networking configs and test results
-│ ├── manual_tcp_ip_config.txt
-│ └── network_test_results.txt
-├── docs/ # Documentation PDFs
-│ ├── maintenance_checklist.pdf
-│ └── troubleshooting_guide.pdf
-├── screenshots/ # (Optional) Setup & test screenshots
-└── README.md
+git clone https://github.com/ryan-02/SimBox_Project.git
+cd SimBox_Project
+python SimApp.py
 
 ---
 
-## ✅ How to Use
+## 🖼 Screenshots
 
-1. Run the PowerShell script to simulate system config.
-2. Use the batch script to install the mock app.
-3. Launch `SimApp.py` to simulate patient device boot.
-4. Check logs and run network tests.
-5. Review checklist and troubleshooting steps for readiness.
+### DEMO
+![DEMO](screenshots/simProject.png)
 
 ---
 
@@ -82,8 +75,3 @@ SimBox_Project/
 Computer Engineering | IT + Cybersecurity Support  
 [ryanhoangbusi@gmail.com](mailto:ryanhoangbusi@gmail.com)
 
----
-
-## 📄 License
-
-MIT License – Feel free to modify for your job applications or educational use.
